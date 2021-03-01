@@ -1,0 +1,7 @@
+{
+  "nio/TuYaInsight": {
+    "language": "Python",
+    "from_python": "tuya_insight_block.TuYaInsight",
+    "url": "git://github.com/<organization>/<repo>[@<tag>]"
+  }
+}

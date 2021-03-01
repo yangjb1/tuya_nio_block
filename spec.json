@@ -1,0 +1,11 @@
+{
+  "nio/Example": {
+    "description": "A short summary of the block.",
+    "categories": [
+      ""
+    ],
+    "tags": "",
+    "from_readme": "docs/example_block.md",
+    "from_python": "example_block.Example"
+  }
+}
